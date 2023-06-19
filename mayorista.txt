@@ -1,2 +1,8 @@
 huevo
 pan
+manzanilla
+manteca
+queso
+queso rayado
+leche
+naranja
